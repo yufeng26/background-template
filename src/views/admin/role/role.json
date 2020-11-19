@@ -1,0 +1,39 @@
+{
+  "code": 0,
+  "msg": null,
+  "data": {
+    "records": [
+      {
+        "roleId": 1,
+        "roleName": "管理员",
+        "roleDesc": "管理员",
+        "dsType": 0,
+        "dsScope": "2",
+        "createTime": "2017-10-29 15:45:51",
+        "updateTime": "2018-12-26 14:09:11",
+        "delFlag": "0"
+      },
+      {
+        "roleId": 9,
+        "roleName": "zcjRole",
+        "roleDesc": "zcj 测试",
+        "dsType": 0,
+        "dsScope": "",
+        "createTime": "2020-11-18 03:33:56",
+        "updateTime": null,
+        "delFlag": "0"
+      }
+    ],
+    "total": 2,
+    "size": 20,
+    "current": 1,
+    "orders": [],
+    "optimizeCountSql": true,
+    "hitCount": false,
+    "countId": null,
+    "maxLimit": null,
+    "searchCount": true,
+    "pages": 1
+  },
+  "success": true
+}

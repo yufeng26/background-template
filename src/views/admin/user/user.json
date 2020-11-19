@@ -1,0 +1,118 @@
+{
+  "code": 0,
+  "msg": null,
+  "data": {
+    "records": [
+      {
+        "userId": 1,
+        "username": "admin",
+        "realName": "管理员",
+        "password": "$2a$10$ukYp/4KdkMj72i0qRqnLceh/4vAGcKlEBL8YTp1E..8lvJ9tv72iq",
+        "salt": "",
+        "createTime": "2018-04-20 07:15:18",
+        "updateTime": "2020-11-04 08:23:49",
+        "delFlag": null,
+        "verifyFlag": "0",
+        "lockFlag": "0",
+        "phone": "139****6525",
+        "email": "a****@itangquan1.com",
+        "avatar": "75b21d0deee0410496c63f482f91d67e.png",
+        "deptId": 1,
+        "tenantId": 1,
+        "deptName": "默认部门",
+        "roleList": [
+          {
+            "roleId": 1,
+            "roleName": "管理员",
+            "roleDesc": "管理员",
+            "dsType": 0,
+            "dsScope": "2",
+            "createTime": "2017-10-29 15:45:51",
+            "updateTime": "2018-12-26 14:09:11",
+            "delFlag": "0"
+          }
+        ],
+        "did": "did:sid:1000:0xm01qyeys9fq8s6n3updydzjq8gdw42fplfxhrde77q",
+        "userKey": "ac123456",
+        "pubKey": "9231098627246803138106518735980082539100371268562034681778560721291733983962110229846059549896717817101907007678612373948279282994062357715038442171456936"
+      },
+      {
+        "userId": 19,
+        "username": "test1",
+        "realName": "管理员",
+        "password": "$2a$10$MncMx97lVUq/rQQa0HP/iew6/OsrbAA7aB2FxRj8t.ILdwMYuJhVG",
+        "salt": null,
+        "createTime": "2020-11-02 05:58:25",
+        "updateTime": "2020-11-06 08:08:36",
+        "delFlag": null,
+        "verifyFlag": "0",
+        "lockFlag": "0",
+        "phone": "130****0000",
+        "email": "a****@itangquan1.com",
+        "avatar": null,
+        "deptId": 1,
+        "tenantId": 1,
+        "deptName": "默认部门",
+        "roleList": [
+          {
+            "roleId": 1,
+            "roleName": "管理员",
+            "roleDesc": "管理员",
+            "dsType": 0,
+            "dsScope": "2",
+            "createTime": "2017-10-29 15:45:51",
+            "updateTime": "2018-12-26 14:09:11",
+            "delFlag": "0"
+          }
+        ],
+        "did": "did:sid:1000:0xm01qd4ekjw6ks9dnkx7vy2l7p5hqv8vem9zujd5lev",
+        "userKey": "jiefeng",
+        "pubKey": "12867955193362325356026694558750953756454086645507748704540456666637232349551823058106844867852522984893538857761409817167219306221975660566510817367182153"
+      },
+      {
+        "userId": 20,
+        "username": "hcl",
+        "realName": "管理员",
+        "password": "$2a$10$BNUxnmvTZgSH3hl1i.wHzuiAOc6IKi.hHkxjnb0WNXKOxmVZiKmui",
+        "salt": null,
+        "createTime": "2020-11-05 03:28:18",
+        "updateTime": "2020-11-05 07:00:05",
+        "delFlag": null,
+        "verifyFlag": "0",
+        "lockFlag": "0",
+        "phone": "136****4872",
+        "email": "a****@itangquan1.com",
+        "avatar": null,
+        "deptId": 14,
+        "tenantId": 1,
+        "deptName": "区块链",
+        "roleList": [
+          {
+            "roleId": 1,
+            "roleName": "管理员",
+            "roleDesc": "管理员",
+            "dsType": 0,
+            "dsScope": "2",
+            "createTime": "2017-10-29 15:45:51",
+            "updateTime": "2018-12-26 14:09:11",
+            "delFlag": "0"
+          }
+        ],
+        "did": "did:sid:1000:0xm01q3jgf504v52yj8skcl9a8z6jsztsnd7xjkxyamh",
+        "userKey": "Baas7654",
+        "pubKey": "10792065770388480910414433063881508942351449567524122667983258198055265387630365242532128495365563011738215403697370912296189603554838579118659538585329087"
+      }
+    ],
+    "total": 3,
+    "size": 20,
+    "current": 1,
+    "orders": [],
+    "optimizeCountSql": true,
+    "hitCount": false,
+    "countId": null,
+    "maxLimit": null,
+    "searchCount": true,
+    "pages": 1
+  },
+  "success": true
+}
