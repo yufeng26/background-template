@@ -143,7 +143,7 @@
           "id": 1003,
           "parentId": 100,
           "children": [],
-          "icon": "icon-icon-guiji",
+          "icon": "icon-guiji",
           "name": "echart4",
           "spread": false,
           "path": "/charts/echart4/index",
