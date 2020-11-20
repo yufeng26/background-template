@@ -13,13 +13,13 @@ import { loadStyle } from "./util/util";
 import * as urls from "@/config/env";
 import { iconfontUrl, iconfontVersion } from "@/config/env";
 import * as filters from "./filters"; // 全局filter
+import "ant-design-vue/dist/antd.css";
 import ElementUI from "element-ui";
 import "element-ui/lib/theme-chalk/index.css";
 import "./styles/common.scss";
 import AvueFormDesign from "@sscfaith/avue-form-design";
 import basicContainer from "./components/basic-container/main";
 import Echarts from "echarts";
-import "ant-design-vue/dist/antd.css";
 // 插件 json 展示
 Vue.use(router);
 
