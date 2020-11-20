@@ -8,29 +8,29 @@
       <a-row :gutter="20">
         <a-col :lg="24" :xl="12" :xxl="7">
           <a-row :gutter="20">
-            <div class="grid-content bg-purple">
+            <div class="grid-content2 bg-purple">
               <TwoChart />
             </div>
           </a-row>
           <a-row :gutter="20">
-            <div class="grid-content bg-purple">
+            <div class="grid-content2 bg-purple">
               <OneChart />
             </div>
           </a-row>
         </a-col>
         <a-col :lg="24" :xl="12" :xxl="10">
-          <div class="grid-content bg-purple">
+          <div class="grid-content2 bg-purple">
             <ShArea />
           </div>
         </a-col>
         <a-col :lg="24" :xl="12" :xxl="7">
           <a-row :gutter="20">
-            <div class="grid-content bg-purple">
+            <div class="grid-content2 bg-purple">
               <Liebiao />
             </div>
           </a-row>
           <a-row :gutter="20">
-            <div class="grid-content bg-purple">
+            <div class="grid-content2 bg-purple">
               <ThreeChart />
             </div>
           </a-row>
@@ -38,17 +38,17 @@
       </a-row>
       <a-row :gutter="20">
         <a-col :lg="24" :xl="12" :xxl="7" style=" padding: 0">
-          <div class="grid-content bg-purple">
+          <div class="grid-content2 bg-purple">
             <FourChart />
           </div>
         </a-col>
         <a-col :lg="24" :xl="12" :xxl="10">
-          <div class="grid-content bg-purple">
+          <div class="grid-content2 bg-purple">
             <FiveChart />
           </div>
         </a-col>
         <a-col :lg="24" :xl="12" :xxl="7" style=" padding: 0">
-          <div class="grid-content bg-purple">
+          <div class="grid-content2 bg-purple">
             <SixChart />
           </div>
         </a-col>
@@ -197,7 +197,7 @@ export default {
   padding: 0 20px;
   color: #ffffff;
 }
-.grid-content {
+.grid-content2 {
   background: #1b1e39;
   border-radius: 3px;
   margin-top: 10px;
