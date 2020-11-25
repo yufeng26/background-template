@@ -10,6 +10,7 @@
     "analyze": "vue-cli-service build --report"
   },
   "dependencies": {
+    "@antv/g2": "^4.0.15",
     "@chenfengyuan/vue-qrcode": "^1.0.1",
     "@riophae/vue-treeselect": "0.4.0",
     "@sscfaith/avue-form-design": "1.2.8",
