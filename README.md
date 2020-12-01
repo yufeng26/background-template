@@ -12,7 +12,8 @@
 
 ## 使用说明
 
-1.左侧菜单 路由和文件路径 本地数据存储于 src/util/menuList.json
+1.左侧菜单 路由和文件路径 本地数据存储于 src/util/menuList.json  
+2.添加对应的项目文件和路由路径相对应
 
 ### 2.avue-crud 插件使用开发文档地址：
 

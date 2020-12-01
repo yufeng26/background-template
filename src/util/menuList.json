@@ -167,6 +167,55 @@
       "openFlag": "1",
       "displayFlag": "1",
       "hasChildren": null
+    },
+    {
+      "id": 200,
+      "parentId": -1,
+      "icon": "icon-navicon-zdgl",
+      "name": "typeScript",
+      "spread": false,
+      "path": "/typeScript",
+      "keepAlive": "0",
+      "type": "0",
+      "label": "typeScript",
+      "sort": 1,
+      "openFlag": "1",
+      "displayFlag": "1",
+      "hasChildren": null,
+      "children": [
+        {
+          "id": 201,
+          "parentId": 200,
+          "children": [],
+          "icon": "icon-msnui-supervise",
+          "name": "base",
+          "spread": false,
+          "path": "/typeScript/base/index",
+          "keepAlive": "0",
+          "type": "0",
+          "label": "base",
+          "sort": 1,
+          "openFlag": "0",
+          "displayFlag": "0",
+          "hasChildren": null
+        },
+        {
+          "id": 202,
+          "parentId": 200,
+          "children": [],
+          "icon": "icon-msnui-supervise",
+          "name": "base",
+          "spread": false,
+          "path": "/typeScript/string/index",
+          "keepAlive": "0",
+          "type": "0",
+          "label": "string",
+          "sort": 1,
+          "openFlag": "0",
+          "displayFlag": "0",
+          "hasChildren": null
+        }
+      ]
     }
   ],
   "type": "session",
