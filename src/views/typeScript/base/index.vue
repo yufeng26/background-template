@@ -18,4 +18,4 @@ export default {
   methods: {},
 };
 </script>
-<style lang='stylus' scoped></style>
+<style lang='less' scoped></style>
